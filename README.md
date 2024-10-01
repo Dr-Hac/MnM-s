@@ -5,7 +5,7 @@
 * Numpy 2
 * Matplotlib 3
 ### Uses
-The main use of this project is to Demonstright my knowalge of matplotlibbut with minor modifcations the script could be used as a basic 3D barchart template
+The main use of this project is to Demonstright my knowalge of matplotlib but with minor modifcations the script could be used as a basic 3D barchart template
 ## MnM's.csv
 ### Description
 MnM's.csv is all the data used by MnM's.py. it sorts a collection of 3 bags of MnM's into color and type.
